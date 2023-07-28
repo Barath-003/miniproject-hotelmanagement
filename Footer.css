@@ -1,0 +1,44 @@
+.vertical{
+    border-left:2px solid white ;
+    height: 130px;
+    padding-left: 20px;
+    padding-top: 30px;
+    margin-left: 10%;
+    
+}
+.insta{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg");
+    background-position: center;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    width: 50px;
+    padding: 40px;
+    cursor: pointer;
+    height: 50px;
+}
+.tw{
+    background-image: url("https://store-images.s-microsoft.com/image/apps.45406.9007199266244427.4d45042b-d7a5-4a83-be66-97779553b24d.2a88a418-b96d-44a6-ad4f-5e0ee6289b2c");
+    /* background-position: center; */
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    width: 50px;
+    padding: 40px;
+    cursor: pointer;
+    height: 50px;
+}
+.fb{
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQMAAADCCAMAAAB6zFdcAAAA1VBMVEU8WZ////89WKD///3///kmS5rq6fAyWJ9abqgwUJn6/v2QoMTEyt8+V6I8WZw+WJwwU5ng6O8uR5Pf6PPI0d3///c8Wpr//P/DyeT5//cuUJs/WJgmSJwjSZRCXaBFYZ0wVZcoTpFNbJ51mbOzudDi5fX09P7s8frY2u2uvtunttGTort5j8Rbd718jLbw7+pdc6Wvvco7VKVxg6h9o8DO2vGKmcCarMukp85Taq02XJVmhq+ap7ujsdDC0OJyfLQ1UaZ6hrOPnMhTZZ2xw+oQP5jBze6c/Si7AAAEJElEQVR4nO3df1PbNhzHcVuySazEjhOwDcZuoAv5Ae2gaRdI162MtX3+D6n+tn90h+VcRkSErM/7ru1dz9xJr1OsRJDgOAghhBBCCCH0hGLdA6i1/xHBACGE0I9e+u33pY9vH8EAIYQQQgghhKwpdKIwZI+q/v/n33aUphEbnKadTieqqv75j4juse2rMM+LoowHr16Nx+N0EA3Ozs6DksqZHccEQRm8/m3Sv5hNs6ngQkyn09ns4GI+7y8ur968bftKYGkcj38/vnabG7Z9IYTFzbuZ4BsIeMsNWNk9zrjHLTWI0qgTjCeul1VtIGizQcqWo/eHmyZvgcFydCe8jSug5QZRFBYLV2SJtQbMSQejyRaPgxYbpM6yuBTept2g/Qas/OAmm7eDthsMghux8TmBBQZh8McWN8N2G5Q9brcBc8KPs2S7e0FbDZYd/3JrgJYahOx0ZruB46+23RJaa8DOj6w3yF9nwnYDv+fCoM+bDLiXZfVXEcPT1h2qssOs8X5QvZYWF/3L29ur3q8eWmfAuqLRgPPh3XpUFHkQxHFMf6ryIP2oe9CKC/4Uzc8RJ8v7Myekfn3HLWSDSPegFZd/ck+kCCdZ8pfftlUvL59wuYFI5oUdBI7/tyc3yPjne92D21P+3JMfonkXo1T34PaUf+BxT2aQLAJ7DBL5MRpf5W27/zdFBtJ14P6z1D22feUfNBC43Y4l2wIMHBhQMIABBQMYUDCAAQUDGFAwgAFFBvJzZZsMml4722Vg0zoIauVB0bgO1nle/4Iq3bPYoYidrXr1Vtfcla4D8enhQXJ9b+UwY8/YIhYPvaSefFNw3cRzueRyb8aMNjgUkpoMeCUgu3weOEYbcElNBp5whez6fskGuufy1Migab7/p7tS90yeniqDVa57Jk9PlcF7gzdHJQbVjbJr8DMnJQYeFwYvAzUGJ+6Br3siO6RmHWTzke6J7JCie+LC4K1RlcGtwVujKoMr6w24+1b3PHZJjYFY657HLqkxuDb4GZIqg2FgMoIagyOTt0ZF+8LEN/bwwFFlcHdv7CGSo+qx8CYw2sBRYCA+G25wPtzd4F9zD5V/FC/6kpoOlpP+8XHt4i+RyVsjVfr1vjZ9HJRYF0Xt6tx0gp/vynlU0WhwE9W/QPcMFPT40wCr/Gv5t9pctyu5WvcEnif8DAYMKBjAgIIBDCgYwICCAQwoGMCAggEMKBjAgIIBDCgYwICCAQwoGMCAggEMKBjAgIIBDCgYwICCAQwoGMCAggEMKBjAgIIBDCgYwICCAQwoGMCAggEMKMMMnuX3pCk0MPZTgxQaGPu77Ax7LDxLMIABBQMyaHyf6ws2iJXef/P+kbxva2dbA7Uj0lBQjqSZ/xb37UurdI9Bd/Ru9oEk3eNCCCGEEEIIIYQQQmibvgNLu15CYiXoOgAAAABJRU5ErkJggg==");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: pointer;
+    width: 50px;
+    padding: 40px;
+    height: 50px;
+}
+.fo{
+    padding-bottom: 0px;
+    position: absolute;
+    padding-left: 0px;
+    
+}

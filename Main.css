@@ -1,0 +1,136 @@
+.search {
+  display: flex;
+  align-items: center;
+     margin-left: 400px;
+    width: 400px;
+    padding: 30px;
+    background: rgba(236, 218, 218, 0.32);
+    box-shadow: 0 8px 32px 0 rgba(245, 13, 91, 0.37);
+    backdrop-filter: blur(15px);
+    border-radius: 5px;
+    border: 10px solid rgba(255, 255, 255, 0.18);
+}
+.Boys{
+  text-align: center;
+}
+ .logo{
+  
+  position:relative;
+ }
+  .dashboard {
+  display: flex;
+}
+
+.sidebar {
+  width: 300px;
+  padding: 20px;
+}
+
+.main-content {
+  flex-grow: 1;
+  padding: 20px;
+}
+
+
+.main{
+  padding-left: 65px;
+  height: 500px;
+  padding-top: 110px;
+
+}
+
+.he{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #fff;
+  padding-left: 200px;
+  padding-bottom: 10px;
+ 
+}
+/* .searchh{
+  padding: 12px;
+  padding-right: 100px;
+  margin-right: 10px;
+} */
+.search-field {
+  
+  margin-right: 20px;
+  padding: 20px;
+  border-radius: 30px;
+}
+.search-button {
+  padding: 5px 10px;
+  background-color: #e7dfdf;
+  color: #8800ff;
+  border: 30px;
+  border-radius: 40px;
+  cursor: pointer;
+}
+body{
+  
+    background-image: url('https://avatars.mds.yandex.net/i?id=f53955ce2ebbdfdca267fc8bc39c4a164cf4e76b-4495101-images-thumbs&n=13');
+     background-size:cover;
+     display: flex;
+     justify-content: center;
+     padding-bottom: 00px;
+     align-items: center;
+     /* padding-left: 570px; */
+     flex-direction: flex;
+     justify-content: center;
+     height: 100vh;
+     width: 100vw;
+     font-family: "Raleway", sans-serif;
+   
+}
+.search-button:hover {
+  background-color: #dad4d4;
+}
+.nav{
+  padding-bottom: 40px;
+  height: 100px;
+ width: 100%; 
+}
+.na{
+  padding: 14px 30px;
+  padding-bottom: 150px;
+  /* position: fixed; */
+}
+.sign{
+  padding-left: 500px;
+}
+.create{
+  padding-left: 50px;
+}
+
+.nav-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  margin: 10;
+  padding: 0;
+}
+
+.nav-item {
+  margin: 0 10px;
+}
+
+.nav-link {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 10px;
+}
+
+.nav-link:hover {
+  background-color: #1f0b0b;
+}
+
+.png1{
+  background-image: url("C:\Users\Barath\Downloads\Great.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 90px;
+  height: 90px;
+  background-size: 120px;
+  /* padding-top: 120px; */
+
+}

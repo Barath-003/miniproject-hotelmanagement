@@ -1,0 +1,28 @@
+/* 
+.slideshow-container {
+    max-width: 300px;
+    margin: 20px auto;
+    overflow: hidden;
+  }
+  
+  .slideshow-image {
+    width: 100%;
+    height: auto;
+    animation: slide 12s infinite;
+  }
+  
+  @keyframes slide {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    25% {
+      transform: translateY(-100%);
+    }
+    50% {
+      transform: translateY(-200%);
+    }
+    75% {
+      transform: translateY(-300%);
+    }
+  }
+   */

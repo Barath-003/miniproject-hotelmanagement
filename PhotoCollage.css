@@ -1,0 +1,25 @@
+.photo-collage {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Adjust the number to arrange photos in rows/columns */
+    gap: 8px; /* Adjust the gap between photos as needed */
+    padding-left: 100px;
+  }
+  
+  .photo {
+    width: 70%;
+    height: 70%;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  .photo-collages {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Adjust the number to arrange photos in rows/columns */
+    gap: 8px; /* Adjust the gap between photos as needed */
+    padding-left: 100px;
+  }
+  .photo-collagess {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Adjust the number to arrange photos in rows/columns */
+    gap: 8px; /* Adjust the gap between photos as needed */
+    padding-left: 100px;
+  }

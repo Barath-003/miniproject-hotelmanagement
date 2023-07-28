@@ -1,0 +1,15 @@
+.bb{
+    /* height:100vh; */
+    color:aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.log{
+    border-radius: 100px;
+    border: 5px solid rgb(255, 255, 255);
+    /* margin-top: 600px; */
+    /* margin-left: 50px;  */
+    background-size: cover;
+    height: 620px;
+    width: 620px;
+    background-image: url("C:\Users\Barath\Downloads\Great.png");
+}

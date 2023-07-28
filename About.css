@@ -1,0 +1,52 @@
+.body{
+    /* background-image: url("C:\Users\hp\minipro\src\30219.jpg"); */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.slider
+{
+    padding-left: 20px;
+    margin-right: 200px;
+}
+.lycra{
+  width:80px;
+  height:10px;
+}
+.wh{
+  padding-top: 100px;
+}
+.wf{
+  padding-bottom: 200px;
+}
+.MenuFendu{
+  padding-top: 300px;
+    height: 10px;
+    /* width: 1200px; */
+    /* padding: 30px; */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    place-items: ;
+    font-size: 10px;
+    /* background: rgba(247, 245, 245, 0.971); */
+    /* box-shadow: 0 8px 32px 0 rgba(245, 13, 91, 0.37); */
+    /* backdrop-filter: blur(15px); */
+    /* border-radius: 40px; */
+    /* border: 10px solid rgba(255, 255, 255, 0.18); */
+    /* padding-top: 300px; */
+
+}
+.container {
+    /* background-image: url("C:\Users\hp\minipro\src\30219.jpg"); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 20px;
+    width: 20px;
+  }
+  .head
+  {
+    background-color: aliceblue;
+  }

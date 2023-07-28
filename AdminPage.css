@@ -1,0 +1,59 @@
+/* .app-container10 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 1rem;
+  } */
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+   
+  }
+  .h111{
+    color: #ffffff;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: rgba(236, 218, 218, 0.32);
+    box-shadow: 0 8px 32px 0 rgba(245, 13, 91, 0.37);
+    backdrop-filter: blur(15px);
+    border-radius: 30px;
+  }
+  
+  th,
+  td {
+    border: 1px solid #ffffff;
+    text-align: left;
+    padding: 8px;
+    font-size: large;
+    color:#ffffff;
+    font-size: 32px;
+  }
+  
+  th {
+    background-color: rgb(77, 166, 250);
+  }
+  
+  td {
+    background-color: rgb(8, 6, 4);
+  }
+  .h22{
+    color: #ffffff;
+    text-align: center;
+  }
+  .for{
+    margin-left: 40px;
+  }
+  /* form {
+    display: flex;
+    gap: 5px;
+  }
+  
+  form td:last-child {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  form * {
+    font-size: 28px;
+  } */
